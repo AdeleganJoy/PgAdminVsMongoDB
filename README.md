@@ -1,6 +1,8 @@
 # PgAdminVsMongoDB
+
 This was from December 2024. It is a student table for a University database. I am performing print, insertion, deletion and modification to the student table with MongoDB and PgAdmin
-# 🏭 PgAdmin vs MongoDB Student Database
+
+# 𝄜 PgAdmin vs MongoDB Student Database
 This was from December 2024. It is a student table for a University database. I am performing Insertion, deletion modification to the student table with MongoDB and PgAdmin
 
 ## 📋 Features
